@@ -38,7 +38,7 @@ nav a:hover{
     color: yellow;
 }
 
-/* Hero Section */
+
 .hero{
     background: linear-gradient(to right, #4facfe, #00f2fe);
     color: white;
@@ -56,7 +56,7 @@ nav a:hover{
     font-size: 18px;
 }
 
-/* About Section */
+
 .about{
     background-color: white;
     margin: 40px;
@@ -68,7 +68,7 @@ nav a:hover{
     margin-bottom: 15px;
 }
 
-/* Skills Section */
+
 .skills{
     padding: 40px;
     text-align: center;
@@ -97,7 +97,7 @@ nav a:hover{
     margin-bottom: 10px;
 }
 
-/* Contact Section */
+
 .contact{
     background-color: #222;
     color: white;
